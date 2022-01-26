@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1643133004554" clover="3.2.0">
+  <project timestamp="1643133004554" name="All files">
+    <metrics statements="116" coveredstatements="24" conditionals="18" coveredconditionals="6" methods="63" coveredmethods="6" elements="197" coveredelements="36" complexity="0" loc="116" ncloc="116" packages="7" files="20" classes="20"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/App.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.apis">
+      <metrics statements="37" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="25" coveredmethods="0"/>
+      <file name="Api.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Api.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+      <file name="Episodes.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Episodes.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="People.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/People.js">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="Schedule.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Schedule.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+      <file name="Search.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Search.js">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+      <file name="Shows.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Shows.js">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+      </file>
+      <file name="Updates.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/apis/Updates.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="25" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="13" coveredmethods="4"/>
+      <file name="HelloWorld.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/components/HelloWorld.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="Search.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/components/Search.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+      <file name="ShowItem.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/components/ShowItem.vue">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+      <file name="ShowList.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/components/ShowList.vue">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="4"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.router">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/router/index.js">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="22" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="0"/>
+      <file name="actions.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/store/actions.js">
+        <metrics statements="16" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/store/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="mutations.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/store/mutations.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="state.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/store/state.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="18" coveredstatements="8" conditionals="10" coveredconditionals="4" methods="8" coveredmethods="2"/>
+      <file name="index.js" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/utils/index.js">
+        <metrics statements="18" coveredstatements="8" conditionals="10" coveredconditionals="4" methods="8" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.views">
+      <metrics statements="7" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="Details.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/views/Details.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="Home.vue" path="/Users/natwar.garg/workspace/this-mac-local-folder/workspace/vue/unit-test/tv-web-app/src/views/Home.vue">
+        <metrics statements="5" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+  </project>
+</coverage>
