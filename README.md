@@ -1,6 +1,6 @@
 # tv-web-app
 
-#### Demo url - [tv-web-app](http://vue-tv-web-app.s3-website-us-east-1.amazonaws.com/#/)
+#### [ Demo url - [tv-web-app](http://vue-tv-web-app.s3-website-us-east-1.amazonaws.com/#/) ]
 ## Project setup
 ```
 yarn install
